@@ -1,0 +1,14 @@
+#安裝XAMPP
+#C:\XAMPP\htdocs
+
+a.php
+```
+<?php
+  phpinfo();
+?>
+```
+
+#開啟Browser
+```
+localhost/a.php
+```
